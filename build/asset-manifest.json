@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1dd246a.css",
+    "main.js": "/static/js/main.cc06480b.js",
+    "static/media/about1.jpg": "/static/media/about1.068a6f92061deff37d09.jpg",
+    "static/media/about2.jpg": "/static/media/about2.5d39bdd5530725bf9fe4.jpg",
+    "static/media/infografic.png": "/static/media/infografic.83ab1e104fd3901bed94.png",
+    "static/media/advantage.jpg": "/static/media/advantage.0d4164798ac86ba5005b.jpg",
+    "static/media/contact.jpg": "/static/media/contact.2ecdebbc01746de8aa56.jpg",
+    "static/media/about.jpg": "/static/media/about.e5d424079541faa01e20.jpg",
+    "static/media/con3.png": "/static/media/con3.18a2ef0bf1534ea7aecb.png",
+    "static/media/con1.png": "/static/media/con1.b4f08d85bedb30a86cbf.png",
+    "static/media/con2.png": "/static/media/con2.1f52dbcb83a5b41c5de8.png",
+    "static/media/con4.png": "/static/media/con4.264e060054d59251661a.png",
+    "static/media/animationtruck.png": "/static/media/animationtruck.18d569f7c0f13af7bca7.png",
+    "static/media/play.png": "/static/media/play.0cde0e898eecaee9ed86.png",
+    "static/media/zonapro.ttf": "/static/media/zonapro.61c5fe8dd34ded2c8e53.ttf",
+    "static/media/zonapro1.ttf": "/static/media/zonapro1.2f2229f01ae7b35cd628.ttf",
+    "static/media/info2.png": "/static/media/info2.4fbac7eb70a07181e398.png",
+    "static/media/notification.png": "/static/media/notification.54c1e35679016c05d6f3.png",
+    "static/media/logo1.png": "/static/media/logo1.a401b71b6e34d21a945a.png",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.c1dd246a.css.map": "/static/css/main.c1dd246a.css.map",
+    "main.cc06480b.js.map": "/static/js/main.cc06480b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1dd246a.css",
+    "static/js/main.cc06480b.js"
+  ]
+}
